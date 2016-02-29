@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Pay Functional Testsuite">
+  <test verbose="2" name="Pay test">
+    <classes>
+      <class name="TestNg.Batch.PaymentTest"/>
+      <class name="TestNg.Batch.PayReturn"/>
+    </classes>
+  </test> <!-- Default test -->
+</suite> <!-- Default suite -->

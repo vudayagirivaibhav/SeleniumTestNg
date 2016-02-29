@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Functional Testsuite]">
+  <test verbose="2" name="Basic test">
+    <classes>
+      <class name="TestNg.Batch.SignUpTest"/>
+      <class name="TestNg.Batch.LoginTest"/>
+    </classes>
+  </test> <!-- Basic test -->
+</suite> <!-- Failed suite [Functional Testsuite] -->
